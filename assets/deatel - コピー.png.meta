@@ -1,0 +1,2230 @@
+fileFormatVersion: 2
+guid: 122b472dc8ae365458bb353488d32e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5151376506575802505
+    second: "deatel - \u30B3\u30D4\u30FC_0"
+  - first:
+      213: 1124156127134160565
+    second: "deatel - \u30B3\u30D4\u30FC_1"
+  - first:
+      213: 2947565356916778496
+    second: "deatel - \u30B3\u30D4\u30FC_2"
+  - first:
+      213: 2523866972196798477
+    second: "deatel - \u30B3\u30D4\u30FC_3"
+  - first:
+      213: -8512695801516475211
+    second: "deatel - \u30B3\u30D4\u30FC_4"
+  - first:
+      213: -2809817918678489441
+    second: "deatel - \u30B3\u30D4\u30FC_5"
+  - first:
+      213: 1290936023327759219
+    second: "deatel - \u30B3\u30D4\u30FC_6"
+  - first:
+      213: -4292821103907269471
+    second: "deatel - \u30B3\u30D4\u30FC_7"
+  - first:
+      213: -4677267993828317338
+    second: "deatel - \u30B3\u30D4\u30FC_8"
+  - first:
+      213: 8496072458064436787
+    second: "deatel - \u30B3\u30D4\u30FC_9"
+  - first:
+      213: -4909620149436519104
+    second: "deatel - \u30B3\u30D4\u30FC_10"
+  - first:
+      213: -1157512714378206799
+    second: "deatel - \u30B3\u30D4\u30FC_11"
+  - first:
+      213: 156318828241601565
+    second: "deatel - \u30B3\u30D4\u30FC_12"
+  - first:
+      213: 1819609807004283513
+    second: "deatel - \u30B3\u30D4\u30FC_13"
+  - first:
+      213: -5377088809575244799
+    second: "deatel - \u30B3\u30D4\u30FC_14"
+  - first:
+      213: -5151312772347042497
+    second: "deatel - \u30B3\u30D4\u30FC_15"
+  - first:
+      213: -5795308524490374511
+    second: "deatel - \u30B3\u30D4\u30FC_16"
+  - first:
+      213: 1936516307616045232
+    second: "deatel - \u30B3\u30D4\u30FC_17"
+  - first:
+      213: 469599846864211827
+    second: "deatel - \u30B3\u30D4\u30FC_18"
+  - first:
+      213: 1610677647622367590
+    second: "deatel - \u30B3\u30D4\u30FC_19"
+  - first:
+      213: 5007650509479970717
+    second: "deatel - \u30B3\u30D4\u30FC_20"
+  - first:
+      213: 4985423896903108364
+    second: "deatel - \u30B3\u30D4\u30FC_21"
+  - first:
+      213: 4416426508341712240
+    second: "deatel - \u30B3\u30D4\u30FC_22"
+  - first:
+      213: -41902159087785397
+    second: "deatel - \u30B3\u30D4\u30FC_23"
+  - first:
+      213: 6836944182084280579
+    second: "deatel - \u30B3\u30D4\u30FC_24"
+  - first:
+      213: 5488609052830902776
+    second: "deatel - \u30B3\u30D4\u30FC_25"
+  - first:
+      213: 3306376417854300770
+    second: "deatel - \u30B3\u30D4\u30FC_26"
+  - first:
+      213: 841725083708690515
+    second: "deatel - \u30B3\u30D4\u30FC_27"
+  - first:
+      213: 7086219748603609649
+    second: "deatel - \u30B3\u30D4\u30FC_28"
+  - first:
+      213: -142976373425927923
+    second: "deatel - \u30B3\u30D4\u30FC_29"
+  - first:
+      213: 9192207060853211456
+    second: "deatel - \u30B3\u30D4\u30FC_30"
+  - first:
+      213: -8009954888322822555
+    second: "deatel - \u30B3\u30D4\u30FC_31"
+  - first:
+      213: -2579938909021935114
+    second: "deatel - \u30B3\u30D4\u30FC_32"
+  - first:
+      213: 2131877710084341723
+    second: "deatel - \u30B3\u30D4\u30FC_33"
+  - first:
+      213: -8814564963975890928
+    second: "deatel - \u30B3\u30D4\u30FC_34"
+  - first:
+      213: 3665052194908284748
+    second: "deatel - \u30B3\u30D4\u30FC_35"
+  - first:
+      213: -5710403690185207276
+    second: "deatel - \u30B3\u30D4\u30FC_36"
+  - first:
+      213: -3679671827552786198
+    second: "deatel - \u30B3\u30D4\u30FC_37"
+  - first:
+      213: -655322739777623
+    second: "deatel - \u30B3\u30D4\u30FC_38"
+  - first:
+      213: 5350775870114589522
+    second: "deatel - \u30B3\u30D4\u30FC_39"
+  - first:
+      213: 8336513616274641459
+    second: "deatel - \u30B3\u30D4\u30FC_40"
+  - first:
+      213: 3928190723382560503
+    second: "deatel - \u30B3\u30D4\u30FC_41"
+  - first:
+      213: 6522592837448430975
+    second: "deatel - \u30B3\u30D4\u30FC_42"
+  - first:
+      213: 1506193192434034273
+    second: "deatel - \u30B3\u30D4\u30FC_43"
+  - first:
+      213: 7320946961923086708
+    second: "deatel - \u30B3\u30D4\u30FC_44"
+  - first:
+      213: -6563287579947356596
+    second: "deatel - \u30B3\u30D4\u30FC_45"
+  - first:
+      213: -7645986622566500200
+    second: "deatel - \u30B3\u30D4\u30FC_46"
+  - first:
+      213: 4988192178149416759
+    second: "deatel - \u30B3\u30D4\u30FC_47"
+  - first:
+      213: 3686432192344049570
+    second: "deatel - \u30B3\u30D4\u30FC_48"
+  - first:
+      213: 1083943549135145146
+    second: "deatel - \u30B3\u30D4\u30FC_49"
+  - first:
+      213: 5909761151305477346
+    second: "deatel - \u30B3\u30D4\u30FC_50"
+  - first:
+      213: -3901552603584657416
+    second: "deatel - \u30B3\u30D4\u30FC_51"
+  - first:
+      213: -2068021189006829583
+    second: "deatel - \u30B3\u30D4\u30FC_52"
+  - first:
+      213: 3858799386057907183
+    second: "deatel - \u30B3\u30D4\u30FC_53"
+  - first:
+      213: 6882221932324331854
+    second: "deatel - \u30B3\u30D4\u30FC_54"
+  - first:
+      213: -2090625619334085396
+    second: "deatel - \u30B3\u30D4\u30FC_55"
+  - first:
+      213: 8181482772907652253
+    second: "deatel - \u30B3\u30D4\u30FC_56"
+  - first:
+      213: -8538923050159712234
+    second: "deatel - \u30B3\u30D4\u30FC_57"
+  - first:
+      213: 6284622647797061945
+    second: "deatel - \u30B3\u30D4\u30FC_58"
+  - first:
+      213: -1701340680229855640
+    second: "deatel - \u30B3\u30D4\u30FC_59"
+  - first:
+      213: 323669004291949722
+    second: "deatel - \u30B3\u30D4\u30FC_60"
+  - first:
+      213: -6854190033291015261
+    second: "deatel - \u30B3\u30D4\u30FC_61"
+  - first:
+      213: -4900794024314556725
+    second: "deatel - \u30B3\u30D4\u30FC_62"
+  - first:
+      213: -2729592637792102146
+    second: "deatel - \u30B3\u30D4\u30FC_63"
+  - first:
+      213: 3407751912854195130
+    second: "deatel - \u30B3\u30D4\u30FC_64"
+  - first:
+      213: -4177694574256780538
+    second: "deatel - \u30B3\u30D4\u30FC_65"
+  - first:
+      213: -179534789493038059
+    second: "deatel - \u30B3\u30D4\u30FC_66"
+  - first:
+      213: 2153262574566123542
+    second: "deatel - \u30B3\u30D4\u30FC_67"
+  - first:
+      213: -613542648607072431
+    second: "deatel - \u30B3\u30D4\u30FC_68"
+  - first:
+      213: -8999337113117184933
+    second: "deatel - \u30B3\u30D4\u30FC_69"
+  - first:
+      213: 6034375354957467617
+    second: "deatel - \u30B3\u30D4\u30FC_70"
+  - first:
+      213: -914566577449293063
+    second: "deatel - \u30B3\u30D4\u30FC_71"
+  - first:
+      213: 2358427052430875519
+    second: "deatel - \u30B3\u30D4\u30FC_72"
+  - first:
+      213: -1983551748831170504
+    second: "deatel - \u30B3\u30D4\u30FC_73"
+  - first:
+      213: -4108781837387666238
+    second: "deatel - \u30B3\u30D4\u30FC_74"
+  - first:
+      213: -3629806655465411484
+    second: "deatel - \u30B3\u30D4\u30FC_75"
+  - first:
+      213: 8493254677438600688
+    second: "deatel - \u30B3\u30D4\u30FC_76"
+  - first:
+      213: -810868763930354595
+    second: "deatel - \u30B3\u30D4\u30FC_77"
+  - first:
+      213: -6055849789202685657
+    second: "deatel - \u30B3\u30D4\u30FC_78"
+  - first:
+      213: 7856927769814231688
+    second: "deatel - \u30B3\u30D4\u30FC_79"
+  - first:
+      213: -1648367393739833118
+    second: "deatel - \u30B3\u30D4\u30FC_80"
+  - first:
+      213: 1094018902608685695
+    second: "deatel - \u30B3\u30D4\u30FC_81"
+  - first:
+      213: -1071667432005733478
+    second: "deatel - \u30B3\u30D4\u30FC_82"
+  - first:
+      213: 5648169295011642161
+    second: "deatel - \u30B3\u30D4\u30FC_83"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_0"
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 926
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805ebab3ad5d7740800000000000000
+      internalID: 5151376506575802505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_1"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 926
+        width: 41
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b619e5aa0ec99f00800000000000000
+      internalID: 1124156127134160565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_2"
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 926
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a543431bd7e820800000000000000
+      internalID: 2947565356916778496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_3"
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 926
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d008122a3a3960320800000000000000
+      internalID: 2523866972196798477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_4"
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 978
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb6ad4544dcd980800000000000000
+      internalID: -8512695801516475211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_5"
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 927
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9624a17d758109d0800000000000000
+      internalID: -2809817918678489441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_6"
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 925
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bd43a39735ae110800000000000000
+      internalID: 1290936023327759219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_7"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 926
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49e4943f5dc64c0800000000000000
+      internalID: -4292821103907269471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_8"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 638
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6672f847a81071fb0800000000000000
+      internalID: -4677267993828317338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_9"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 638
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e19e0f2ec18e570800000000000000
+      internalID: 8496072458064436787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_10"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 638
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d6cb28c768ddbb0800000000000000
+      internalID: -4909620149436519104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_11"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 638
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12d7ca150bfefe0800000000000000
+      internalID: -1157512714378206799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_12"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 683
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14cb05652b5b2200800000000000000
+      internalID: 156318828241601565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_13"
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 639
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972be409a7d804910800000000000000
+      internalID: 1819609807004283513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_14"
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 638
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c1a8b773eb065b0800000000000000
+      internalID: -5377088809575244799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_15"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 638
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35625d835cd288b0800000000000000
+      internalID: -5151312772347042497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_16"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 713
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19245f11a9de29fa0800000000000000
+      internalID: -5795308524490374511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_17"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 711
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b894395253efda10800000000000000
+      internalID: 1936516307616045232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_18"
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 638
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4bea929a548600800000000000000
+      internalID: 469599846864211827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_19"
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 642
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669613a69c64a5610800000000000000
+      internalID: 1610677647622367590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_20"
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 642
+        width: 26
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d978bd05b9fbe7540800000000000000
+      internalID: 5007650509479970717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_21"
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 638
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0747adce98cf2540800000000000000
+      internalID: 4985423896903108364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_22"
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 638
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0759356928c4a4d30800000000000000
+      internalID: 4416426508341712240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_23"
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 718
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a204455322b6ff0800000000000000
+      internalID: -41902159087785397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_24"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 638
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ae4a8284b1ee50800000000000000
+      internalID: 6836944182084280579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_25"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 660
+        width: 103
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9aaf88ad47b2c40800000000000000
+      internalID: 5488609052830902776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_26"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 638
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2622fe785db92ed20800000000000000
+      internalID: 3306376417854300770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_27"
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 638
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3501ef401886eab00800000000000000
+      internalID: 841725083708690515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_28"
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 638
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13240e3215f475260800000000000000
+      internalID: 7086219748603609649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_29"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 619
+        width: 1667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d098ca2febb040ef0800000000000000
+      internalID: -142976373425927923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_30"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 390
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0414ef39e97419f70800000000000000
+      internalID: 9192207060853211456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_31"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 317
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e4d96b77ce6d090800000000000000
+      internalID: -8009954888322822555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_32"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 317
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9e9893b37323cd0800000000000000
+      internalID: -2579938909021935114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_33"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 396
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf762e6b73f59d10800000000000000
+      internalID: 2131877710084341723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_34"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 317
+        width: 24
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018fc98eddf5ca580800000000000000
+      internalID: -8814564963975890928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_35"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 385
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4726c09d81ecd230800000000000000
+      internalID: 3665052194908284748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_36"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 398
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4125e6a491290c0b0800000000000000
+      internalID: -5710403690185207276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_37"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 341
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae824b4f7fd2fecc0800000000000000
+      internalID: -3679671827552786198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_38"
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 411
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd1e8ccfbadfff0800000000000000
+      internalID: -655322739777623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_39"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 411
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b69e2ed46c14a40800000000000000
+      internalID: 5350775870114589522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_40"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 317
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d14b17fe31b370800000000000000
+      internalID: 8336513616274641459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_41"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 317
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c33586acb38630800000000000000
+      internalID: 3928190723382560503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_42"
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 317
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75fe92a0a7e48a50800000000000000
+      internalID: 6522592837448430975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_43"
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 317
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16664267ab217e410800000000000000
+      internalID: 1506193192434034273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_44"
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 317
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47996ec497a399560800000000000000
+      internalID: 7320946961923086708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_45"
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 401
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e218648b48ae4a0800000000000000
+      internalID: -6563287579947356596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_46"
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 401
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898f88c4daff3e590800000000000000
+      internalID: -7645986622566500200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_47"
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 317
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f5af18b5e993540800000000000000
+      internalID: 4988192178149416759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_48"
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 317
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74b312c86d82330800000000000000
+      internalID: 3686432192344049570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_49"
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 351
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c6ca3ae0fa0f00800000000000000
+      internalID: 1083943549135145146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_50"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 317
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec67f2b470b30250800000000000000
+      internalID: 5909761151305477346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_51"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 317
+        width: 109
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f706de0496ead9c0800000000000000
+      internalID: -3901552603584657416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_52"
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 318
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f754497fa9ec43e0800000000000000
+      internalID: -2068021189006829583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_53"
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 358
+        width: 108
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1a79c8953d8530800000000000000
+      internalID: 3858799386057907183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_54"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 317
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4128954260928f50800000000000000
+      internalID: 6882221932324331854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_55"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 317
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4c249631b9cf2e0800000000000000
+      internalID: -2090625619334085396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_56"
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 317
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94732f0c377a8170800000000000000
+      internalID: 8181482772907652253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_57"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 163
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618d5de1ab6af7980800000000000000
+      internalID: -8538923050159712234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_58"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 161
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93991553007773750800000000000000
+      internalID: 6284622647797061945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_59"
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 88
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5af85aaf9368e0800000000000000
+      internalID: -1701340680229855640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_60"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 88
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9440a99e37ed7400800000000000000
+      internalID: 323669004291949722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_61"
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 186
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab8aa2da7601e0a0800000000000000
+      internalID: -6854190033291015261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_62"
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 186
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceaf57ecc1ecfbb0800000000000000
+      internalID: -4900794024314556725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_63"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 88
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef851ea35f98e1ad0800000000000000
+      internalID: -2729592637792102146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_64"
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 88
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb05584f44ca4f20800000000000000
+      internalID: 3407751912854195130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_65"
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 88
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b09594be8d506c0800000000000000
+      internalID: -4177694574256780538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_66"
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 88
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51461776f0a228df0800000000000000
+      internalID: -179534789493038059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_67"
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 161
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618282137ece1ed10800000000000000
+      internalID: 2153262574566123542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_68"
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 171
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f193736324c77f0800000000000000
+      internalID: -613542648607072431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_69"
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 146
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c29ae739eeb1380800000000000000
+      internalID: -8999337113117184933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_70"
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 168
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef8c91f9686eb350800000000000000
+      internalID: 6034375354957467617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_71"
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 122
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa0bb1b8ece43f0800000000000000
+      internalID: -914566577449293063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_72"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 88
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b50d0a8e0dab020800000000000000
+      internalID: 2358427052430875519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_73"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 110
+        width: 103
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830305991320974e0800000000000000
+      internalID: -1983551748831170504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_74"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 92
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc6eea20bcaaf6c0800000000000000
+      internalID: -4108781837387666238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_75"
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 88
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca2a1141650adc0800000000000000
+      internalID: -3629806655465411484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_76"
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 129
+        width: 108
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f517a3412a1ed570800000000000000
+      internalID: 8493254677438600688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_77"
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 87
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c9876c7273fb4f0800000000000000
+      internalID: -810868763930354595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_78"
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 87
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7212375b3bc45fba0800000000000000
+      internalID: -6055849789202685657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_79"
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 88
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aeda9cd2a690d60800000000000000
+      internalID: 7856927769814231688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_80"
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 88
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e00dccb692df19e0800000000000000
+      internalID: -1648367393739833118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_81"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 88
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aad83456cbe2f00800000000000000
+      internalID: 1094018902608685695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_82"
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 88
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9371f5062ca021f0800000000000000
+      internalID: -1071667432005733478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deatel - \u30B3\u30D4\u30FC_83"
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 88
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bff6c6c04526e40800000000000000
+      internalID: 5648169295011642161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
